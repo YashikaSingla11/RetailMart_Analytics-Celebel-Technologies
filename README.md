@@ -1,4 +1,4 @@
-# 🛒 RetailMart Data Engineering Lakehouse Pipeline
+# RetailMart Data Engineering Lakehouse Pipeline
 
 An end-to-end cloud data engineering production pipeline designed inside Databricks using the **Medallion Architecture**. The project processes messy operational e-commerce records, standardizes dimensional schemas, handles temporal variations, and builds a robust Star Schema optimized for advanced business insights using PySpark and Databricks SQL.
 
