@@ -4,16 +4,16 @@ An end-to-end cloud data engineering production pipeline designed inside Databri
 
 ---
 
-## 🛠️ Tech Stack & Key Concepts Handled
+## Tech Stack & Key Concepts Handled
 *   **Language & Core Processing:** Python, Pandas, PySpark DataFrame API
 *   **Storage & Framework:** Delta Lake Format, Databricks Unity Catalog
-*   **Architecture Design:** Medallion Framework (Bronze ➡️ Silver ➡️ Gold), Star Schema Modeling (Fact & Dimension Tables)
+*   **Architecture Design:** Medallion Framework (Bronze to  Silver to  Gold), Star Schema Modeling (Fact & Dimension Tables)
 *   **Analytical Engine:** Advanced Databricks SQL (CTEs, Subqueries, Window Functions, Aggregate Queries)
 *   **Data Strategy:** Schema Enforcement, Type Standardization, Surrogate Key Generation (`row_number()`), and SCD Type 2 Tracking Strategy
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```text
 ├── data/                         # Local workspace directory for data assets
 │   ├── customers.csv             # Raw Customer demographic log inputs
