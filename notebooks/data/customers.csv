@@ -1,0 +1,101 @@
+customer_id,customer_name,email,country
+CUST_0001,Chloe Sanford,wnelson@example.com,Mozambique
+CUST_0002,Julie Alvarado,kathleenpeters@example.org,Ireland
+CUST_0003,Daniel Roberts,wsingh@example.org,Northern Mariana Islands
+CUST_0004,Christy Maddox,brooksmary@example.org,Monaco
+CUST_0005,Corey Davis,jacksonlori@example.org,Northern Mariana Islands
+CUST_0006,Holly Ruiz,annamitchell@example.net,Turkmenistan
+CUST_0007,Mark Powell,andreasimon@example.org,Qatar
+CUST_0008,Jeffrey Torres,donaldhansen@example.com,Niger
+CUST_0009,Rodney Frazier,obrientimothy@example.com,North Macedonia
+CUST_0010,Sonya Foster,donaldmoore@example.com,Guam
+CUST_0011,Jay Sullivan,ksparks@example.com,Portugal
+CUST_0012,Abigail Marshall,hudsonharold@example.org,Zambia
+CUST_0013,Haley Johnson,rollinsbenjamin@example.com,Christmas Island
+CUST_0014,Alexandra Elliott,savannahschultz@example.net,Isle of Man
+CUST_0015,Andrew White,msanchez@example.com,Libyan Arab Jamahiriya
+CUST_0016,Chris Cohen,kendracarpenter@example.com,Peru
+CUST_0017,Heidi Delgado,kflores@example.com,Brazil
+CUST_0018,Jonathan Liu,susan86@example.org,Ecuador
+CUST_0019,Sergio Vazquez,jennifersmith@example.org,Turks and Caicos Islands
+CUST_0020,Abigail Miller,xcolon@example.org,Haiti
+CUST_0021,Gregory Shah,jason79@example.org,Tonga
+CUST_0022,Sara Wilson,danielperry@example.net,Honduras
+CUST_0023,Patricia Lamb,amcdowell@example.com,Malawi
+CUST_0024,Brenda White,christinemason@example.net,Lao People's Democratic Republic
+CUST_0025,Nancy Stafford,tbrown@example.net,Sudan
+CUST_0026,Steve Taylor,christina23@example.net,Tokelau
+CUST_0027,Stacey Morgan,kimberly20@example.com,Bhutan
+CUST_0028,Joshua Norris,yolanda83@example.net,Anguilla
+CUST_0029,Anthony Ramirez,olyons@example.com,Falkland Islands (Malvinas)
+CUST_0030,Ann Pineda,alexandermarshall@example.net,Jersey
+CUST_0031,Dan Rodriguez,kylealexander@example.org,Lesotho
+CUST_0032,Dr. Emma Davis,wbarnett@example.net,Ghana
+CUST_0033,Stacy Smith,dominguezmichael@example.org,Western Sahara
+CUST_0034,Shannon Ellis,diazashley@example.org,Trinidad and Tobago
+CUST_0035,Regina Allen,millerloretta@example.com,Heard Island and McDonald Islands
+CUST_0036,Matthew Tran,jeffrey32@example.net,Qatar
+CUST_0037,Felicia Giles,rebeccataylor@example.net,Netherlands
+CUST_0038,Michael Shannon,joseph91@example.net,Mozambique
+CUST_0039,Anthony Robinson,michaeljensen@example.org,Liechtenstein
+CUST_0040,Charles Martinez,mcaldwell@example.com,Saint Barthelemy
+CUST_0041,Jacob West,ashley26@example.net,Christmas Island
+CUST_0042,Megan Mcdaniel,ryanbrown@example.com,Slovenia
+CUST_0043,Matthew Pierce,wanda33@example.com,Gibraltar
+CUST_0044,Joshua Flores,charlesmaldonado@example.com,Bulgaria
+CUST_0045,Morgan Allen,parkerjoshua@example.com,Russian Federation
+CUST_0046,Jesse Phillips,quinnjohn@example.org,Uruguay
+CUST_0047,Anthony Haney,mitchellbethany@example.org,Paraguay
+CUST_0048,Jessica Estrada,gpeterson@example.com,Nauru
+CUST_0049,Michael Tapia,vhughes@example.net,Serbia
+CUST_0050,Julie Terrell,gjones@example.com,British Virgin Islands
+CUST_0051,Amy Jenkins,amy16@example.org,Gambia
+CUST_0052,Donald Jensen,andrewburns@example.org,Canada
+CUST_0053,Paul Mathews,meyereugene@example.net,Nicaragua
+CUST_0054,Michael Adams,jaime67@example.org,South Georgia and the South Sandwich Islands
+CUST_0055,Melissa Davila,michellerogers@example.net,Zambia
+CUST_0056,Gina Blair,christophergonzalez@example.net,Monaco
+CUST_0057,Micheal Butler,blake25@example.net,Monaco
+CUST_0058,David Robinson,sullivanelizabeth@example.com,Vanuatu
+CUST_0059,Anne Hall,warejames@example.org,Pakistan
+CUST_0060,Christopher Blair,ymiller@example.org,Tokelau
+CUST_0061,Mary Mccullough,hthompson@example.net,Mexico
+CUST_0062,Andrew Lopez,linda11@example.net,Mayotte
+CUST_0063,Michelle Sellers,ortizamanda@example.com,Italy
+CUST_0064,Cristina Watkins,ericaking@example.net,San Marino
+CUST_0065,Felicia Galvan,lerickson@example.org,Serbia
+CUST_0066,Laura Castillo,mwhite@example.net,Lebanon
+CUST_0067,Brian Williams,brianrangel@example.net,El Salvador
+CUST_0068,Michelle Holder,andersonjames@example.org,Gambia
+CUST_0069,Wendy Powell,dmiller@example.net,Turks and Caicos Islands
+CUST_0070,Anthony Roberts,cheryldavidson@example.com,Maldives
+CUST_0071,Victoria Phillips,swilson@example.com,Tanzania
+CUST_0072,Nathaniel Price,allenkelly@example.org,British Indian Ocean Territory (Chagos Archipelago)
+CUST_0073,Brittany Castaneda,rheath@example.net,Mayotte
+CUST_0074,Nicole Walls,lloydmegan@example.org,Aruba
+CUST_0075,Andrew Torres,jonesdonald@example.net,Lebanon
+CUST_0076,Julie Gonzalez,skent@example.net,Bahamas
+CUST_0077,Christopher Gonzales,simskayla@example.net,Djibouti
+CUST_0078,Stacey Todd,debrarodriguez@example.com,Holy See (Vatican City State)
+CUST_0079,Cheryl Waters,katie17@example.com,Greece
+CUST_0080,Joseph Johnson,jenniferli@example.net,Niger
+CUST_0081,Betty Watkins,manuelhernandez@example.net,Saint Martin
+CUST_0082,Maria Fleming,vcoleman@example.com,Tonga
+CUST_0083,Ricky Mays,paynelisa@example.org,Czech Republic
+CUST_0084,Veronica Horn,whitetimothy@example.net,Sao Tome and Principe
+CUST_0085,Michael Davis,daniel74@example.com,Tajikistan
+CUST_0086,Jacqueline Dickerson,jon36@example.com,Korea
+CUST_0087,Travis Williams,candacemorgan@example.org,Equatorial Guinea
+CUST_0088,Aaron Martinez,luisgarcia@example.net,Ukraine
+CUST_0089,Dr. Sydney Lopez,pthompson@example.com,Timor-Leste
+CUST_0090,Rebecca Acosta,joel80@example.org,Ethiopia
+CUST_0091,Wesley Chandler,sara68@example.net,Gibraltar
+CUST_0092,Dominique Sanders,kingsara@example.org,Korea
+CUST_0093,Kelli Freeman,rsmith@example.org,Holy See (Vatican City State)
+CUST_0094,Jennifer Trevino,raguirre@example.com,Russian Federation
+CUST_0095,Joseph Marquez,dunnlisa@example.net,Mayotte
+CUST_0096,Michael Mitchell,ashleyspence@example.org,Syrian Arab Republic
+CUST_0097,Lisa Taylor,nicolemiller@example.org,Kyrgyz Republic
+CUST_0098,Dana Taylor,joseph47@example.org,Swaziland
+CUST_0099,Austin Garcia,tracymarshall@example.net,Azerbaijan
+CUST_0100,Anne Weaver,rhernandez@example.net,Maldives
